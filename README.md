@@ -3,6 +3,7 @@
 <H3> REGISTER NUMBER : 212221230097 </H3>
 <H3>EXPERIMENT NO : 01 </H3>
 <H3>DATE  : 04.03.2024 </H3>
+
 ## SUM ARRAY ON HOST AND DEVICE:
 PCA-GPU-based-vector-summation.-Explore-the-differences.
 1. Using the program sumArraysOnGPU-timer.cu, set the block.x = 1023. Recompile and run it. Compare the result with the execution configuration of block.x = 1024. Try to explain the difference and the reason.
